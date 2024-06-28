@@ -1,6 +1,8 @@
 I have developed an automation system that enables a hostel to perform all necessary operations smoothly. Through this system, hostel managers and staff can handle essential tasks such as customer registrations, room tracking, income and expense management. Additionally, functions like product and bill management, employee records, customer communication are easily accessible. The system also allows users to change passwords, play music in the waiting area, and obtain detailed information about the application.
 
 
+![Ekran görüntüsü 2024-06-28 192623](https://github.com/MertUstun7/Hostel_Registration_Automation/assets/164662128/6f1a4b83-27d6-47a5-9f1b-621649ed8e65)
+
 
 ![Ekran görüntüsü 2024-06-28 184654](https://github.com/MertUstun7/Hostel_Registration_Automation/assets/164662128/1e084174-df41-446d-bbf3-a037cd43aae0)
 
