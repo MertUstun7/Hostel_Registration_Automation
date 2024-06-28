@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|c:\\users\\excalibur\\documents\\github\\hostel_registration_automation\\hostel_registration\\main_page_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|solutionrelative:main_page_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|c:\\users\\excalibur\\documents\\github\\hostel_registration_automation\\hostel_registration\\customer_list_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|solutionrelative:customer_list_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|c:\\users\\excalibur\\documents\\github\\hostel_registration_automation\\hostel_registration\\productbillsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|solutionrelative:productbillsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|c:\\users\\excalibur\\documents\\github\\hostel_registration_automation\\hostel_registration\\new_customer_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|solutionrelative:new_customer_frm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|c:\\users\\excalibur\\documents\\github\\hostel_registration_automation\\hostel_registration\\customermessagesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|solutionrelative:customermessagesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|c:\\users\\excalibur\\documents\\github\\hostel_registration_automation\\hostel_registration\\employeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52B95906-763C-4752-8C7F-F3161A04C1B0}|Pansiyon_Kayit_Uygulamasi.csproj|solutionrelative:employeefrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Page_Frm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\Main_Page_Frm.cs",
+              "RelativeDocumentMoniker": "Main_Page_Frm.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\Main_Page_Frm.cs [Design]",
+              "RelativeToolTip": "Main_Page_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:04:31.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productbillsfrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\productbillsfrm.cs",
+              "RelativeDocumentMoniker": "productbillsfrm.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\productbillsfrm.cs [Design]",
+              "RelativeToolTip": "productbillsfrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:59:53.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer_List_Frm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\Customer_List_Frm.cs",
+              "RelativeDocumentMoniker": "Customer_List_Frm.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\Customer_List_Frm.cs [Design]",
+              "RelativeToolTip": "Customer_List_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:54:51.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customerMessagesFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\customerMessagesFrm.cs",
+              "RelativeDocumentMoniker": "customerMessagesFrm.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\customerMessagesFrm.cs [Design]",
+              "RelativeToolTip": "customerMessagesFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:54:50.29Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employeefrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\Employeefrm.cs",
+              "RelativeDocumentMoniker": "Employeefrm.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\Employeefrm.cs [Design]",
+              "RelativeToolTip": "Employeefrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:54:48.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New_Customer_Frm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\New_Customer_Frm.cs",
+              "RelativeDocumentMoniker": "New_Customer_Frm.cs",
+              "ToolTip": "C:\\Users\\EXCALIBUR\\Documents\\GitHub\\Hostel_Registration_Automation\\Hostel_Registration\\New_Customer_Frm.cs [Design]",
+              "RelativeToolTip": "New_Customer_Frm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:52:07.166Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
