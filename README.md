@@ -17,12 +17,12 @@ In my application, users can log in as administrators to access various function
 
 ![Ekran görüntüsü 2024-06-28 185759](https://github.com/MertUstun7/Hostel_Registration_Automation/assets/164662128/81e3284c-8b9b-4a14-b3d3-f1501bd2251c)
 
- The "New Customer" section allows registration of guests checking into the hostel. 
+In the "Information of Customer" section, Allows you to view, change, and delete information about customers. 
 
 
 ![Ekran görüntüsü 2024-06-28 185816](https://github.com/MertUstun7/Hostel_Registration_Automation/assets/164662128/5ca71177-8fe1-4252-96c4-54e5038d77a8)
 
- The "New Customer" section allows registration of guests checking into the hotel. 
+In the "Rooms" section, details of guests staying in each room can be viewed. 
 
 
 ![Ekran görüntüsü 2024-06-28 185935](https://github.com/MertUstun7/Hostel_Registration_Automation/assets/164662128/e9cebbcf-d244-40a0-ab41-9b0f3218fb63)
